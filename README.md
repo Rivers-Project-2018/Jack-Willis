@@ -11,7 +11,11 @@ This is the formula that will be used to estimate FEV from the quadrant plots th
 
 # River Wharfe
 
+Below is the quadrant plot for the River Wharfe at Addingham, from the boxing day floods in 2015.
+
 ![Addingham Quadrant Plot Final(1).png](https://github.com/Rivers-Project-2018/Jack-Willis/blob/master/Addingham%20Quadrant%20Plot%20Final%20(1).png)
+
+Currently there is a large flood alleviation programme taking place on the River Wharfe, with many mitigation schemes explored by the Leeds County Council. Some of these schemes for example are:
 
 
 
